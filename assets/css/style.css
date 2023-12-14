@@ -1,0 +1,31 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+.logom{
+    width: 50px;
+}
+
+.cerca{
+    width: 100%;
+}
+
+#cerca{
+    width: 100%;
+}
+
+.form-control{
+    background-color:#e5e5e5 ;
+    background-image: url(../img/icons8-search-50.png);
+    background-repeat: no-repeat;
+    background-size:20px;
+    background-position: 1%;
+}
+
+.navbar{
+    border-top: 10px solid #F8F9FA;
+    border-bottom: 10px solid #F8F9FA;
+}
