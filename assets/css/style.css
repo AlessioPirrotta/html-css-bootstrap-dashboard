@@ -4,6 +4,11 @@ padding: 0;
 box-sizing: border-box;
 }
 
+img{
+    display: block;
+    width: 100%;
+}
+
 
 .logom{
     width: 50px;
@@ -28,4 +33,10 @@ box-sizing: border-box;
 .navbar{
     border-top: 10px solid #F8F9FA;
     border-bottom: 10px solid #F8F9FA;
+}
+
+.leftbar{
+    width: 70px;
+    height: calc(100vh - 70px);
+    background-image: url(../img/sidebar-bg.png);
 }
