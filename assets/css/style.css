@@ -34,7 +34,7 @@ img{
 
 .leftbar{
     width: 70px;
-    height: calc(100vh - 70px);
+    height: calc(100vh - 57px);
     background-image: url(../img/sidebar-bg.png);
     background-color: #051e34;
     background-repeat: no-repeat;
